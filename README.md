@@ -1,2 +1,2 @@
 # What-Is-Reinforcement-Learning
-밑바닥부터 시작하는 강화학습
+##### 김성훈님 영상 참고했습니다.
